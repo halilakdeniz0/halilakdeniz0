@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=halilakdeniz0&style=flat-square&color=blue" alt="Profil Ziyaretçi Sayısı" />
 </div>
 
-<h1 align="center">👋 Merhaba! Ben Mehmet Halil Akdeniz</h1>
+<h1 align="center"> Merhaba! Ben Mehmet Halil Akdeniz</h1>
 
 ---
 
@@ -26,14 +26,9 @@ Bilişim/Yazılım öğrencisiyim ve kodlamanın gücüne yürekten inanıyorum.
 
 | Platform | Bağlantı |
 | :--- | :--- |
-| 📧 **E-posta** | [halilaakdeniz1@gmail.com] |
-| 👔 **LinkedIn** | [[LinkedIn Profil Bağlantınız](https://www.linkedin.com/in/mehmet-halil-akdeniz-b4607138a/)] |
+| 📧 **E-posta** | halilaakdeniz1@gmail.com |
+| 👔 **LinkedIn** | https://www.linkedin.com/in/mehmet-halil-akdeniz-b4607138a/ |
 
----
 
-<h3 align="center">📈 GitHub İstatistiklerim (Dilerseniz Ekleyebilirsiniz)</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=halilakdeniz0&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub İstatistikleri" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=halilakdeniz0&theme=nord&hide_border=true" alt="GitHub Streak" />
-</p>
+
